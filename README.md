@@ -1,2 +1,0 @@
-# responsive-blog
-grunt
